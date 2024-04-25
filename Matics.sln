@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matics", "Matics\Matics.csproj", "{3E4319E6-CE39-4511-B4B0-76CC9C35B34D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaticsSandbox", "MaticsSandbox\MaticsSandbox.csproj", "{40CF102B-8EED-459E-AFEB-59F8C8CAFB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E4319E6-CE39-4511-B4B0-76CC9C35B34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4319E6-CE39-4511-B4B0-76CC9C35B34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4319E6-CE39-4511-B4B0-76CC9C35B34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4319E6-CE39-4511-B4B0-76CC9C35B34D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40CF102B-8EED-459E-AFEB-59F8C8CAFB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40CF102B-8EED-459E-AFEB-59F8C8CAFB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40CF102B-8EED-459E-AFEB-59F8C8CAFB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40CF102B-8EED-459E-AFEB-59F8C8CAFB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3183B5F8-5183-4688-B929-B207FB70BB66}
+	EndGlobalSection
+EndGlobal
